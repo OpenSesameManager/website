@@ -15,8 +15,8 @@ class App extends React.Component {
                 <header className="App-header container mx-auto">
                     <h1 className="text-4xl font-bold">Privacy</h1>
                 </header>
-                <p>OpenSesmae does NOT collect any information. Everything is completely on-device and secure entries are encrypted using the user's master password.</p>
-                <p>The app may sync via iCloud securily and via Apple's native APIs.</p>
+                <p>OpenSesmae does NOT collect any information. Everything is completely on-device and secure entries are encrypted.</p>
+                <p>The app may sync via iCloud securily and via native APIs.</p>
             </div>
         );
     }
